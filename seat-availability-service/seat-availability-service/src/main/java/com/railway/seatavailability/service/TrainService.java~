@@ -1,0 +1,15 @@
+package com.railway.seatavailability.service;
+
+import com.railway.trainservice.dto.TrainDTO;
+
+import java.util.List;
+
+public interface TrainService {
+    List<TrainDTO> searchTrains(String source, String destination);
+    List<TrainDTO> getAllTrains();
+    TrainDTO getTrainById(Long id);
+    TrainDTO getTrainByNumber(String trainNumber);
+    TrainDTO createTrain(TrainDTO trainDTO);
+    TrainDTO updateTrain(Long id, TrainDTO trainDTO);
+    void deleteTrain(Long id);
+}

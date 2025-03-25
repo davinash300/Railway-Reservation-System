@@ -1,0 +1,13 @@
+com\railway\seatavailability\service\SeatAvailabilityService.class
+com\railway\seatavailability\service\SeatAvailabilityServiceImpl.class
+com\railway\seatavailability\SeatAvailabilityServiceApplication.class
+com\railway\seatavailability\controller\SeatAvailabilityController.class
+com\railway\seatavailability\exception\GlobalExceptionHandler.class
+com\railway\seatavailability\entity\SeatAvailability.class
+com\railway\seatavailability\exception\FeignErrorDecoder.class
+com\railway\seatavailability\exception\ResourceNotFoundException.class
+com\railway\seatavailability\dto\SeatAvailabilityDTO.class
+com\railway\seatavailability\dto\TrainDTO.class
+com\railway\seatavailability\repository\SeatAvailabilityRepository.class
+com\railway\seatavailability\client\TrainServiceClient.class
+com\railway\seatavailability\config\ModelMapperConfig.class
