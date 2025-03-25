@@ -122,3 +122,4 @@
 2025-03-25T21:34:53.865+05:30  INFO 21988 --- [passenger-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2025-03-25T21:39:53.876+05:30  INFO 21988 --- [passenger-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2025-03-25T21:44:53.881+05:30  INFO 21988 --- [passenger-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-25T21:49:53.890+05:30  INFO 21988 --- [passenger-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
