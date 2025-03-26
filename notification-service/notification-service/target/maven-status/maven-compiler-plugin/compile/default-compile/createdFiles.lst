@@ -1,0 +1,14 @@
+com\school\notificationservice\dto\NotificationResponseDTO.class
+com\school\notificationservice\client\EmailFeignClient.class
+com\school\notificationservice\dto\NotificationRequestDTO.class
+com\school\notificationservice\repository\NotificationRepository.class
+com\school\notificationservice\exception\NotificationNotFoundException.class
+com\school\notificationservice\service\NotificationService.class
+com\school\notificationservice\mapper\ModelMapperConfig.class
+com\school\notificationservice\dto\EmailRequestDTO.class
+com\school\notificationservice\controller\NotificationController.class
+com\school\notificationservice\entity\Notification.class
+com\school\notificationservice\dto\NotificationResponseDTO$NotificationResponseDTOBuilder.class
+com\school\notificationservice\exception\GlobalExceptionHandler.class
+com\school\notificationservice\NotificationServiceApplication.class
+com\school\notificationservice\exception\ResourceNotFoundException.class
