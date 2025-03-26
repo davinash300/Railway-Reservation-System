@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; }
+        .container { max-width: 600px; margin: 20px auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        .header { background: #007bff; color: white; text-align: center; padding: 10px; font-size: 20px; border-radius: 8px 8px 0 0; }
+        .content { padding: 20px; font-size: 16px; color: #333; }
+        .cta-button { display: block; width: 200px; margin: 20px auto; text-align: center; background: #007bff; color: white; padding: 12px; border-radius: 5px; text-decoration: none; font-weight: bold; }
+        .footer { text-align: center; font-size: 14px; color: #777; padding: 10px; border-top: 1px solid #ddd; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">📢 Important Notification</div>
+    <div class="content">
+        <p>Hello <strong>{{recipientName}}</strong>,</p>
+        <p>{{message}}</p>
+        <a href="{{ctaLink}}" class="cta-button">View Details</a>
+        <p>Thank you,</p>
+        <p>Your Team</p>
+    </div>
+    <div class="footer">
+        © 2025 Your Company | All rights reserved.
+    </div>
+</div>
+</body>
+</html>
